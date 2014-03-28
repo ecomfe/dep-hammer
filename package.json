@@ -1,0 +1,10 @@
+{
+    "name": "hammer",
+    "description": "A javascript library for multi-touch gestures",
+    "version": "1.0.5",
+    "main": "hammer.js",
+    "author": "Jorik Tangelder",
+    "licenses": "MIT",
+    "repository": "git@github.com:ecomfe/dep-hammer.git",
+    "bugs": "https://github.com/eightmedia/hammer.js/issues"
+}
