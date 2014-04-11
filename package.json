@@ -1,7 +1,7 @@
 {
     "name": "hammer",
     "description": "A javascript library for multi-touch gestures",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "main": "hammer",
     "author": "Jorik Tangelder",
     "licenses": "MIT",
